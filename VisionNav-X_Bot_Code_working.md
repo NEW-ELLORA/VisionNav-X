@@ -13,8 +13,8 @@
 # 🔷 2. WiFi Credentials
 
 ```cpp
-const char* ssid = "HELLO";
-const char* password = "4567890123";
+const char* ssid = " wifi name ";
+const char* password = " password ";
 ```
 
 * Stores WiFi SSID and password
